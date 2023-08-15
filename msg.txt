@@ -1,4 +1,1 @@
 Hello World This is new file
-This is some next text on 15th Aug
-This is msg1
-This is message 2
